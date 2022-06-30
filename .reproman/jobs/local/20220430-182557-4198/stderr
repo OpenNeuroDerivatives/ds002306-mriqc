@@ -1,1 +1,5 @@
-../../../../.git/annex/objects/X3/44/MD5E-s275--9411e58b46ba2afc0246c47333aea7c4/MD5E-s275--9411e58b46ba2afc0246c47333aea7c4
+Warning: Permanently added 'c208-033' (ED25519) to the list of known hosts.
+WARNING (04/30/22 18:26:12): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4292368.hostlist.iT7xqgw2 to get hosts
+starting job on c208-033
+starting job on c208-034
