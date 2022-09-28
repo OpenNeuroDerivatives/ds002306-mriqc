@@ -1,0 +1,5 @@
+Warning: Permanently added 'c208-033' (ED25519) to the list of known hosts.
+WARNING (04/30/22 18:26:12): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4292368.hostlist.iT7xqgw2 to get hosts
+starting job on c208-033
+starting job on c208-034
